@@ -74,7 +74,7 @@
 
         <dependency>
             <groupId>com.targa.labs.dev</groupId>
-            <artifactId>myboutique-commons</artifactId>
+            <artifactId>config-server-commons</artifactId>
             <version>1.0.0-SNAPSHOT</version>
         </dependency>
 

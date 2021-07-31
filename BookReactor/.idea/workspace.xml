@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e242c61-ac77-4b7f-9ab2-1ea6c99e57b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/playing-with-java-microservices-book-code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_jboss_jandex_2_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_spring_orm_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_springframework_spring_tx_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConfigServerCommons/config-server-commons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CustomerService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrderService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProductService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Api-gateway/src/main/java/com/targa/labs/dev/apigateway/ApiGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/src/main/java/com/targa/labs/dev/apigateway/ApiGatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Api-gateway/src/main/java/com/targa/labs/dev/apigateway/GatewayApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/src/main/java/com/targa/labs/dev/apigateway/GatewayApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Api-gateway/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Api-gateway/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Api-gateway/src/test/java/com/targa/labs/dev/apigateway/ApiGatewayApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/CustomerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/CustomerServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/config/LoggingConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/config/ServiceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/config/ServiceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/domain/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/domain/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/domain/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/domain/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/domain/enumeration/CartStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/domain/enumeration/CartStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/service/OrderServiceClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/service/OrderServiceClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/web/CartResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/web/CartResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/web/CustomerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerService/src/main/java/com/targa/labs/dev/myboutique/customerservice/web/CustomerResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerService/src/test/java/com/targa/labs/dev/myboutique/customerservice/CustomerServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EurekaServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EurekaServer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EurekaServer/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../EurekaServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EurekaServer/src/test/java/com/targa/labs/dev/myboutique/eureka/EurekaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HystrixDashboard/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HystrixDashboard/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HystrixDashboard/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../HystrixDashboard/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HystrixDashboard/src/test/java/com/targa/labs/dev/hystrixdashboard/HystrixDashboardApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/DataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/DataLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/OrderServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/OrderServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/config/LoggingConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/config/ServiceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/config/ServiceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/domain/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/domain/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/domain/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/domain/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/domain/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/domain/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/domain/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/domain/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/web/OrderItemResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/web/OrderItemResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/web/OrderResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/web/OrderResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/web/PaymentResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderService/src/main/java/com/targa/labs/dev/myboutique/orderservice/web/PaymentResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderService/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/ProductServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/ProductServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/config/LoggingConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/config/ServiceConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/config/ServiceConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/domain/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/domain/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/domain/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/domain/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/domain/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/domain/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/web/CategoryResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/web/CategoryResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/web/ProductResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/web/ProductResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/web/ReviewResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/web/ReviewResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/web/ZipkinController2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductService/src/main/java/com/targa/labs/dev/myboutique/productservice/web/ZipkinController2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductService/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductService/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-commons/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServerCommons/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-commons/src/main/java/com/targa/labs/dev/myboutique/commons/domain/AbstractEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServerCommons/src/main/java/com/targa/labs/dev/myboutique/commons/domain/AbstractEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-commons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/AddressDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServerCommons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/AddressDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-commons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/CartDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServerCommons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/CartDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-commons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/CategoryDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServerCommons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/CategoryDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-commons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/CustomerDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServerCommons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/CustomerDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-commons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/OrderDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServerCommons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/OrderDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-commons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/OrderItemDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServerCommons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/OrderItemDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-commons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/PaymentDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServerCommons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/PaymentDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-commons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/ProductDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServerCommons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/ProductDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-commons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/ReviewDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServerCommons/src/main/java/com/targa/labs/dev/myboutique/commons/dto/ReviewDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-commons/src/main/java/com/targa/labs/dev/myboutique/commons/utils/Web.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServerCommons/src/main/java/com/targa/labs/dev/myboutique/commons/utils/Web.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-config-server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServer/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-config-server/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServer/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-config-server/nbactions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServer/nbactions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-config-server/src/main/java/com/targa/labs/dev/myboutique/configserver/ConfigserverApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServer/src/main/java/com/targa/labs/dev/myboutique/configserver/ConfigserverApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServer/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-config-server/src/main/resources/configurations/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServer/src/main/resources/configurations/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-config-server/src/main/resources/configurations/customer-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServer/src/main/resources/configurations/customer-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-config-server/src/main/resources/configurations/discovery-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServer/src/main/resources/configurations/discovery-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-config-server/src/main/resources/configurations/gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServer/src/main/resources/configurations/gateway-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-config-server/src/main/resources/configurations/hystrix-dashboard.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServer/src/main/resources/configurations/hystrix-dashboard.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-config-server/src/main/resources/configurations/order-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServer/src/main/resources/configurations/order-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-config-server/src/main/resources/configurations/product-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigServer/src/main/resources/configurations/product-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboutique-config-server/src/test/java/com/targa/labs/dev/myboutique/configserver/ConfigserverApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vcyBHSbAu96L3UgTTCopmmbaUF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ECommerce" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shubh\Repo\playing-with-java-microservices-book-code\ProductService\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.OrderServiceApplication">
+    <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.targa.labs.dev.apigateway.ApiGatewayApplication" />
+      <module name="api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.targa.labs.dev.apigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigserverApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.targa.labs.dev.myboutique.configserver.ConfigserverApplication" />
+      <module name="config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.targa.labs.dev.myboutique.configserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.targa.labs.dev.myboutique.customerservice.CustomerServiceApplication" />
+      <module name="customer-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.targa.labs.dev.myboutique.customerservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.targa.labs.dev.myboutique.eureka.EurekaApplication" />
+      <module name="eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.targa.labs.dev.myboutique.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.targa.labs.dev.myboutique.orderservice.OrderServiceApplication" />
+      <module name="order-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.targa.labs.dev.myboutique.orderservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.targa.labs.dev.myboutique.productservice.ProductServiceApplication" />
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.targa.labs.dev.myboutique.productservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="config-server-commons" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="config-server-commons" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="config-server-commons" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="config-server-commons" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="config-server-commons" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="config-server-commons" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConfigserverApplication" />
+      <item itemvalue="Application.ProductServiceApplication" />
+      <item itemvalue="Application.OrderServiceApplication" />
+      <item itemvalue="Application.CustomerServiceApplication" />
+      <item itemvalue="Application.ApiGatewayApplication" />
+      <item itemvalue="Application.EurekaApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CustomerServiceApplication" />
+        <item itemvalue="Application.OrderServiceApplication" />
+        <item itemvalue="Application.ProductServiceApplication" />
+        <item itemvalue="Application.ApiGatewayApplication" />
+        <item itemvalue="Application.EurekaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e242c61-ac77-4b7f-9ab2-1ea6c99e57b2" name="Default Changelist" comment="" />
+      <created>1626875535915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626875535915</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

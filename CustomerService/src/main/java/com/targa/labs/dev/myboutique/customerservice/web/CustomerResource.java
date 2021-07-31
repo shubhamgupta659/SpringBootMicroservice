@@ -10,7 +10,7 @@ import java.util.List;
 import static com.targa.labs.dev.myboutique.commons.utils.Web.API;
 
 /**
- * @author n.lamouchi
+ * @author shubham gupta
  */
 @RequiredArgsConstructor
 @RestController

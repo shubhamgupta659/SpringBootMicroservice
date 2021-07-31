@@ -8,7 +8,7 @@ import static org.springframework.web.bind.annotation.RequestMethod.POST;
 
 /**
  *
- * @author n.lamouchi
+ * @author shubham gupta
  */
 @FeignClient(name = "order-service")
 public interface OrderServiceClient {

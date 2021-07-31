@@ -10,7 +10,7 @@ import static com.targa.labs.dev.myboutique.commons.utils.Web.API;
 import com.targa.labs.dev.myboutique.productservice.service.ProductService;
 
 /**
- * @author n.lamouchi
+ * @author shubham gupta
  */
 @RequiredArgsConstructor
 @RestController

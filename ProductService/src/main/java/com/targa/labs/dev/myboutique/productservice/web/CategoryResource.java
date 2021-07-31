@@ -9,7 +9,7 @@ import static com.targa.labs.dev.myboutique.commons.utils.Web.API;
 import java.util.List;
 
 /**
- * @author n.lamouchi
+ * @author shubham gupta
  */
 @RequiredArgsConstructor
 @RestController

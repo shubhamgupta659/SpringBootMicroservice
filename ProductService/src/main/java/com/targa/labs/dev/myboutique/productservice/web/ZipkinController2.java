@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author n.lamouchi
+ * @author shubham gupta
  */
 @RestController
 public class ZipkinController2 {

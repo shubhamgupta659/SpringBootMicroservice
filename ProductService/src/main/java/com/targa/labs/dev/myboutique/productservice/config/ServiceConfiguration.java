@@ -7,7 +7,7 @@ import org.springframework.web.client.RestTemplate;
 
 /**
  *
- * @author n.lamouchi
+ * @author shubham gupta
  */
 @Configuration
 public class ServiceConfiguration {
